@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Null-ch/telegram-messages-forwarding.git
+git clone https://github.com/Null-ch/telegram-forwarding-messages.git
 cd telegram-messages-forwarding
 ```
 
