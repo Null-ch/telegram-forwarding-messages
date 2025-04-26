@@ -1,0 +1,6 @@
+/vendor/
+.env
+session.madeline/
+composer.lock
+MadelineProto.log
+src/MadelineProto.log
